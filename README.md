@@ -1,5 +1,4 @@
 # Manga-Colorization-GAN
-
 [Project from May 2020]
 
 Generative Adversarial Network implemented for coloring black&amp;white manga images.
